@@ -2,7 +2,7 @@
 
 I running a custom Unet neural network to make image segmentation on TGS Salt dataset.
 
-I wrote the code and made only one change - I changed the learning rate from 0.001 to 0.0001 to get the following results.
+I wrote the code and made only one change - I changed the learning rate from 0.001 to 0.0001 to get the following results from the validation dataset.
 
 image|mask|prediction
 :----|:--:|:---------
